@@ -1,0 +1,10 @@
+html{
+ background-color: #341;
+}
+.title{ background-color: hsl(227, 65%, 69%);
+border-width: 7px;
+border-style: solid;
+border-color: hsl(444, 85%, 25%);
+padding: 24px;
+margin: 54px;
+}
