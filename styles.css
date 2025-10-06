@@ -1,0 +1,32 @@
+html{
+ background-color: #341;
+}
+.title{ background-color: hsl(227, 65%, 69%);
+border-width: 7px;
+border-style: solid;
+border-color: hsl(444, 85%, 25%);
+padding: 24px;
+margin: 54px;
+}
+
+.global-nave-color{
+background-color: hsl(720, 65%, 29%);
+border-width: 7px;
+border-style: solid;
+border-color: hsl(467, 85%, 85%);
+padding: 24px;
+margin: 54px;
+
+}
+
+.local-nave-color{
+background-color: hsl(566, 65%, 89%);
+border-width: 7px;
+border-style: solid;
+border-color: hsl(446, 23%, 65%);
+padding: 24px;
+margin: 54px;
+
+
+}
+ 
